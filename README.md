@@ -12,6 +12,10 @@
 
 # -cs-combiner-for-Unity-
 ## 📦 cs-combiner for merge mesh & model in UNITY
+<img src="https://img.shields.io/badge/Mesh%20%26%20Fbx-Combiner-orange?style=plastic&labelColor=green">
+   <img src="https://img.shields.io/badge/Better-For Your Game Performance-%239CAEA9?style=plastic&labelColor=%23CCDAD1">
+   <img src="https://img.shields.io/badge/Easy-To%20Use-%2338302E?style=plastic&labelColor=%236F6866">
+
 
  🏷 A package for ```combining``` unity meshes in an integrated way . 🪢 This package is used to combine ```models``` and ```meshes``` inside the scene. 
 
@@ -21,21 +25,27 @@ combineEditor.cs
 combiner.cs
 ```
 You can also use the *|```cs-combiner Render```|* video for how to use the package.
+
+<img src="https://img.shields.io/badge/With%20Video-To%20Help%20You-%2320FC8F?style=social&labelColor=%233F5E5A">
+
 ```
 cs-combiner Render.mp4
 ```
-<br>
 - You can use the following guide for
+
 ![Help](https://github.com/user-attachments/assets/9deb0f9b-d3f2-47ea-bd16-3dfb97042292)
 <br><br>
 #### - This package was developed in *|``` Unity 5.6.7 ```|*, so you can use it in any version of Unity.
 <img src="https://img.shields.io/badge/Unity-black?style=flat&logo=unity"> <br>
 
-<video src="https://github.com/user-attachments/assets/8eeb2006-6de9-4fd0-a8a1-f847eaa6fb8b" controls></video> <br>
+<video src="https://github.com/user-attachments/assets/8eeb2006-6de9-4fd0-a8a1-f847eaa6fb8b" controls></video>
+<img src="https://img.shields.io/badge/Use%20It-%233F5E5A?style=for-the-badge&labelColor=%23353831">
 
-## 📍Note: Before using the package, remove all *```//Comments```* from your file.<br><br>
+<img src="https://img.shields.io/badge/To%20Learn-And%20Use-%2320FC8F?style=plastic&labelColor=%233F5E5A">
+
+<br><br>
   <hr>
-  
+
 🔍 You can check my *[games](https://B2n.ir/my-myket)* and other *[arts](https://B2n.ir/artstation)*:<br><br>
 <br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://www.naiad.art.studio@gmail.com)<br>
