@@ -17,7 +17,9 @@
    <img src="https://img.shields.io/badge/Easy-To%20Use-%2338302E?style=plastic&labelColor=%236F6866">
 
 
- 🏷 A package for ```combining``` unity meshes in an integrated way . 🪢 This package is used to combine ```models``` and ```meshes``` inside the scene. 
+ 🏷 A package for ```combining``` unity meshes in an integrated way . 🪢 This package is used to combine ```models``` and ```meshes``` inside the scene.
+ 
+ - You can use this package to combine the meshes in the scene and reduce the use of the device's *```RAM```* and increase the *```frame rate```* of your game.
 
  🔑 You can use the package directly, or you can download the C# file separately named *| ```combineEditor.cs``` |* and *| ```combiner.cs``` |* and add it to your project.
  ```
